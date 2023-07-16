@@ -1,1 +1,1 @@
-# Connections
+<span class="mc">Connections</span>
