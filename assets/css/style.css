@@ -44,7 +44,7 @@ body {
 
 body::before {
     content: "";
-    background-image: url("../../assets/images/2000w_q95.webp");
+    background-image: url("https://sitraka-.github.io/Connections/assets/images/2000w_q95.webp");
     background-position: center;
     /*     background-attachment: fixed; */
     background-repeat: no-repeat;
