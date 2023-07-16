@@ -2,8 +2,8 @@
 
 @font-face {
     font-family: "Montchauve";
-    src: url("../fonts/montchauve/Montchauve.otf") format("opentype"),
-        url("../fonts/montchauve/montchauve.svg#montchauve") format("svg");
+    src: url("../../assets/fonts/montchauve/Montchauve.otf") format("opentype"),
+        url("../../assets/fonts/montchauve/montchauve.svg#montchauve") format("svg");
 }
 
 :root {
@@ -44,7 +44,7 @@ body {
 
 body::before {
     content: "";
-    background-image: url("../../assets/images/AC76-0492.1.jpeg");
+    background-image: url("../../assets/images/2000w_q95.webp");
     background-position: center;
     /*     background-attachment: fixed; */
     background-repeat: no-repeat;
