@@ -247,6 +247,7 @@ ol {
 
 ol li {
     position: relative;
+    padding-bottom: 10px;
 }
 
 ol li::before {
