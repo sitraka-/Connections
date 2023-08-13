@@ -59,7 +59,7 @@ floor, no changes in height between separate elements, unless the elements are b
 |Oct. 17 | Supervised Studio | Supervised Studio
 |Oct. 24 | __*DOCUMENTATION*__ | __*RUN THROUGH*__ | __Listening Session__ w/ [Nicholas Mortimer](http://nicholasmortimer.net/)
 
-## DEADLINE TIMINGS & TASKS
+## DEADLINE TIMINGS → 2023
 |Date|TIME|TASK| Description|
 |---|-----|-----| -----|
 |Oct. 24| 10:00 | __*DOCUMENTATION*__ | We will photograph each individual contraption. Running order dependent on progress |
