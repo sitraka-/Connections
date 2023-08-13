@@ -1,4 +1,4 @@
-![](./assets/images/cc.png)
+![](./assets/images/cc1.png)
 
 [CSM MAID](https://www.arts.ac.uk/subjects/3d-design-and-product-design/postgraduate/ma-industrial-design-csm) x [Very Very Far Away](https://vvfa.space)
 
@@ -18,3 +18,7 @@ Design as a process is very much concerned with the location, formation or explo
 The connections between individuals on a course such as MAID is one of the primary defining characteristics of your learning experience. Coming from such a vast range of backgrounds and cultures, you have much to learn from each other. In undertaking this project, you will create symbolic links between individuals that will come to represent your group in dynamic terms. 
 
 The project is intended to get you to work together as a team to create something that represents your MAID cohort. But importantly, connections also function as an introduction to the workshops, where you will work with the technical staff who you will engage throughout the course. The project will make you familiar with the workshop working practices and the materials and processes available to you.
+
+# BRIEF
+
+You have been given a group and a number, as well as a list of action verb. Number 1 will initiate a chain reaction by creating a mechanism that will trigger a second device created by 2, then 3 and so on until the final member. You should produce your mechanism using materials and processes accessed in the college workshops.
