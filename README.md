@@ -10,7 +10,7 @@ Charles Eames quoted in Massey, A., _Interior Design of the 20th Century_, New Y
 
 ---
 
-# BACKGROUND
+## BACKGROUND
 
 When [Charles Eames](https://en.wikipedia.org/wiki/Charles_Eames) said the above, he was alluding to the relationship between elements of design detailing in a piece of office furniture. On a bigger scale, he meant this as a metaphor for the process of design as a whole. 
 
@@ -22,11 +22,11 @@ The connections between individuals on a course such as MAID is one of the prima
 
 The project is intended to get you to work together as a team to create something that represents your MAID cohort. But importantly, connections also function as an introduction to the workshops, where you will work with the technical staff who you will engage throughout the course. The project will make you familiar with the workshop working practices and the materials and processes available to you.
 
-# BRIEF
+## BRIEF
 
 You will be divided into groups, with each group assigned a number and a list of action verbs to choose from. The chain reaction will commence with Group 1, as they create a mechanism to trigger a second device crafted by Group 2, all while embodying and expressing the selected action verb. The sequence continues with Group 3 and beyond until the final member of the chain. The task involves crafting the mechanism using materials and processes available within the college workshops.
 
-# RULES
+## RULES
 
 1. Keep it simple, test it, test it and test it!
 
@@ -50,7 +50,7 @@ You will be divided into groups, with each group assigned a number and a list of
 
 11. Those at the beginning and end of the cycle should try to engineer a meaningful overture (opening) and denouement (climax)
 
-# LEARNING OUTCOMES
+## LEARNING OUTCOMES
 
 The outcomes of this project contribute to your achievement of the Unit learning outcomes and form the basis of the assessment of your work. The learning outcomes for this project are highlighted as follows:
 
