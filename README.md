@@ -84,7 +84,7 @@ The outcomes of this project contribute to your achievement of the Unit learning
 > ## INDEX
 > 
 > - [Main Syllabus](./)
-> - [Introduction to FAUST](FAUST.md)
+> - [Link to PDF version](https://artslondon.sharepoint.com/:b:/t/MAID/EZ3-G95cydpOrWtoOnYELX8BRaI15mmzTW69wlQalgvvkw?e=D04ols)
 >
 > ## REFERENCES
 > 
