@@ -4,12 +4,15 @@
 
 [![Power of 10](./assets/images/power10.png)](https://youtu.be/0fKBhvDjuy0)
 
+> The details are not the details, they make the product, just as details make the architecture — the gauge of the wire, the selection of the wood, the finish of the castings — the connections,the connections, the connections.
+
+Charles Eames, quoted in Massey, A., _Interior Design of the 20th Century_, New York, Thames and Hudson, 1990, 145–62.
+
 ---
 
 # BACKGROUND
-‘The connections, the connections, the connections’ 
 
-When Charles Eames said the above, he was alluding to the relationship between elements of design detailing in a piece of office furniture. On a bigger scale, he meant this as a metaphor for the process of design as a whole. 
+When [Charles Eames](https://en.wikipedia.org/wiki/Charles_Eames) said the above, he was alluding to the relationship between elements of design detailing in a piece of office furniture. On a bigger scale, he meant this as a metaphor for the process of design as a whole. 
 
 The concept of **_connections_** is closely related to common theories of **_creativity_**, and is fundamental to the production of design work in particular. 
 
