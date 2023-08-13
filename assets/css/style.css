@@ -241,18 +241,19 @@ ul.task-list {
 }
 
 ol {
-    list-style-position: inside;
-    padding-left: 0;
+    /* list-style-position: inside; */
+    padding-left: 1.5rem;
 }
 
 ol li {
     position: relative;
     padding-bottom: 10px;
+    padding-inline-start: 1rem;
 }
 
 ol li::before {
     content: "";
-    margin-left: 1rem;
+    /* margin-left: 1rem; */
 }
 
 ::marker {
