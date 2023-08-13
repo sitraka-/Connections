@@ -40,7 +40,7 @@ You will be divided into groups, with each group assigned a number and a list of
 10. Your piece should not simply be a ‘rolling ball-type’ machine 
 11. Those at the beginning and end of the cycle should try to engineer a meaningful overture (opening) and denouement (climax)
 
-## DELIVERY RULES
+## DELIVERABLES
 
 - A single mechanised chain reaction, successfully integrating all groups individual contributions.
 - The completed piece should be able to fit on a __*FLAT*__ surface (i.e. the studio
@@ -48,6 +48,23 @@ floor, no changes in height between separate elements, unless the elements are b
 - The contraptions should transfer energy in the __*SAME DIRECTION*__.
 - The contraptions should be easily and quickly re-settable.
 - Each mechanism must have a reasonable footprint.
+
+## TIMETABLE → 2023
+
+|Date|AM|PM|GUEST|
+|---|-----|-----|-----|
+|Oct. 2|__*Brief Launch*__|Supervised Studio|
+|Oct. 3| Supervised Studio | Supervised Studio
+|Oct. 10| Supervised Studio | Supervised Studio
+|Oct. 17 | Supervised Studio | Supervised Studio
+|Oct. 24 | __*DOCUMENTATION*__ | __*RUN THROUGH*__ | __Listening Session__ w/ [Nicholas Mortimer](http://nicholasmortimer.net/)
+
+## KEY DATES & TASKS
+|Date|TIME|TASK| Description|
+|---|-----|-----| -----|
+|Oct. 24| 10:00 | __*DOCUMENTATION*__ | We will photograph each individual contraption. Running order dependent on progress |
+|Oct. 24| 14:00 | __*RUN THROUGH*__ | Hard deadline. All devices prepped & ready|
+|Oct.24| 18:00 | __*Listening Session*__ | Brief 1.2 __*Soft launch*__ <ins>in the Bar</ins>
 
 ## LEARNING OUTCOMES
 
