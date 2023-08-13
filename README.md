@@ -4,13 +4,13 @@
 
 [![Power of 10](./assets/images/power10.png)](https://youtu.be/0fKBhvDjuy0)
 
-> The details are not the details, they make the product, just as details make the architecture — the gauge of the wire, the selection of the wood, the finish of the castings — the connections,the connections, the connections.
-
-Charles Eames quoted in Massey, A., _Interior Design of the 20th Century_, New York, Thames and Hudson, 1990, 145–62.
-
 ---
 
 ## BACKGROUND
+
+> The details are not the details, they make the product, just as details make the architecture — the gauge of the wire, the selection of the wood, the finish of the castings — the connections,the connections, the connections.
+
+Charles Eames quoted in Massey, A., _Interior Design of the 20th Century_, New York, Thames and Hudson, 1990, 145–62.
 
 When [Charles Eames](https://en.wikipedia.org/wiki/Charles_Eames) said the above, he was alluding to the relationship between elements of design detailing in a piece of office furniture. On a bigger scale, he meant this as a metaphor for the process of design as a whole. 
 
@@ -60,8 +60,9 @@ floor, no changes in height between separate elements, unless the elements are b
 |Oct. 24 | __*DOCUMENTATION*__ | __*RUN THROUGH*__ | __Listening Session__ w/ [Nicholas Mortimer](http://nicholasmortimer.net/)
 
 ## DEADLINE TIMINGS → 2023
+
 |Date|TIME|TASK| Description|
-|---- |-----|-----|---|
+|---|-----|-----|-----|
 |Oct. 24| 10:00 | __*DOCUMENTATION*__ | We will photograph each individual contraption. Running order dependent on progress |
 |Oct. 24| 14:00 | __*RUN THROUGH*__ | Hard deadline. All devices prepped & ready|
 |Oct. 24| 18:00 | __*Listening Session*__ | Brief 1.2 __*Soft launch*__ in the Bar|
