@@ -7,8 +7,8 @@
 }
 
 :root {
-    --main-color: #a9b5c2;
-    --bg: #22272e;
+    --main-color: #1b1b1b;
+    --bg: gainsboro;
     --link-color: #6ecd90;
     --secondary-color: #171c20d4;
     --display-font:
@@ -27,7 +27,7 @@
 }
 
 body {
-    background: #0d0f12;
+    background: var(--bg);
     /*     var(--bg); */
     /*     background-image: url("../../assets/images/AC76-1089.jpeg");
     background-position: center;
@@ -41,11 +41,12 @@ body {
     margin: 0;
     padding: 2rem 3rem 3rem 3rem;
     overflow-x: hidden;
+
 }
 
 body::before {
     content: "";
-    background-image: url("https://sitraka-.github.io/Connections/assets/images/2000w_q95.webp");
+    /* background-image: url("https://sitraka-.github.io/Connections/assets/images/2000w_q95.webp"); */
     background-position: center;
     /*     background-attachment: fixed; */
     background-repeat: no-repeat;
