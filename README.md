@@ -26,7 +26,7 @@ The project is intended to get you to work together as a team to create somethin
 
 You will be divided into groups, with each group assigned a number and a list of action verbs to choose from. The chain reaction will commence with Group 1, as they create a mechanism to trigger a second device crafted by Group 2, all while embodying and expressing the selected action verb. The sequence continues with Group 3 and beyond until the final member of the chain. The task involves crafting the mechanism using materials and processes available within the college workshops.
 
-## RULES
+## PRODUCTION RULES
 
 1. Keep it simple, test it, test it and test it!
 
@@ -49,6 +49,15 @@ You will be divided into groups, with each group assigned a number and a list of
 10. Your piece should not simply be a ‘rolling ball-type’ machine 
 
 11. Those at the beginning and end of the cycle should try to engineer a meaningful overture (opening) and denouement (climax)
+
+## DELIVERY RULES
+
+- A single mechanised chain reaction, successfully integrating all groups individual contributions.
+- The completed piece should be able to fit on a __*FLAT*__ surface (i.e. the studio
+floor, no changes in height between separate elements, unless the elements are built that way).
+- The contraptions should transfer energy in the __*SAME DIRECTION*__.
+- The contraptions should be easily and quickly re-settable.
+- Each mechanism must have a reasonable footprint.
 
 ## LEARNING OUTCOMES
 
