@@ -60,4 +60,26 @@ The outcomes of this project contribute to your achievement of the Unit learning
 
 3. Effective communication of a variety of proposals in different areas of the discipline to a range of audiences; (Technical competence) and (Communication and Presentation) 
 
-4. Critical awareness of your own personal and professional strengths and weaknesses. 5. Ability to manage the roles and r
+4. Critical awareness of your own personal and professional strengths and weaknesses; 
+
+5. Ability to manage the roles and responsibilities of yourself and others as part of an effective team;
+
+---
+
+> # ANNEX 
+> 
+> ## INDEX
+> 
+> - [Main Syllabus](./)
+> - [Introduction to FAUST](FAUST.md)
+>
+> ## REFERENCES
+> 
+> - About Rolling Ball Sculptures and Kinetic Art. [http://www.kugelbahn.ch](http://www.kugelbahn.ch) accessed 9.11.2016 
+> - Heath Robinson gallery. [https://www.heathrobinsonmuseum.org](https://www.heathrobinsonmuseum.org) accessed 9.11.2016 
+> - Rube Goldberg. [http://www.rube-goldberg.com](http://www.rube-goldberg.com) 
+> - The Sculpture of Arthur Ganson. [http://www.arthurganson.com](http://www.arthurganson.com) accessed 9.11.2016 
+> - _Der Lauf Der Dinge_ or _The Way Things Go_ (1987) [[Film]](https://youtu.be/48miurCamjw). Switzerland: Peter Fischli and David Weiss 
+> - Moustrap MB Games Honda Civic Cog (2003) [[Advertisement]](http://www.youtube.com/watch?v=_ve4M4UsJQo) Wieden+ Kennedy 
+
+
