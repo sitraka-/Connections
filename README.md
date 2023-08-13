@@ -84,7 +84,7 @@ The outcomes of this project contribute to your achievement of the Unit learning
 > ## INDEX
 > 
 > - [Main Syllabus](./)
-> - [Link to PDF version](https://artslondon.sharepoint.com/:b:/t/MAID/EZ3-G95cydpOrWtoOnYELX8BRaI15mmzTW69wlQalgvvkw?e=D04ols)
+> - [Link to PDF version](https://artslondon.sharepoint.com/:b:/t/MAID/EZu3v37q5EJBhEAly_Q-f0YBxuloVXaL9t01TisLqd71Fw?e=uKFSQI)
 >
 > ## REFERENCES
 > 
