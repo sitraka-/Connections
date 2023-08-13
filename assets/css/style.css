@@ -236,6 +236,10 @@ ul:not(.task-list) li:before {
     transform: translateY(-50%) rotate(-45deg);
 }
 
+ul.task-list {
+    padding-left: 0;
+}
+
 
 body::-webkit-scrollbar {
     width: 5px;
