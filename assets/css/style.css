@@ -224,7 +224,7 @@ ul {
     padding-inline-start: 1rem;
 }
 
-ul li:before {
+ul:not(.task-list) li:before {
     content: '';
     position: absolute;
     border-right: 2px solid var(--link-color);

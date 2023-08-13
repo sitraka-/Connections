@@ -28,9 +28,9 @@ You will be divided into groups, with each group assigned a number and a list of
 
 ## PRODUCTION RULES
 
-[x] Keep it simple, test it, test it and test it!
+- [x] Keep it simple, test it, test it and test it!
 
-[x] The overall effect should be a dynamic, kinetic sculpture that represents not only you as individuals, but also as a group 
+- [x] The overall effect should be a dynamic, kinetic sculpture that represents not only you as individuals, but also as a group 
 
 - [x] It is your responsibility to liaise with the person before and the person after to achieve the required transition between each piece 
 
