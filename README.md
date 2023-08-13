@@ -32,23 +32,23 @@ You will be divided into groups, with each group assigned a number and a list of
 
 - [x] The overall effect should be a dynamic, kinetic sculpture that represents not only you as individuals, but also as a group 
 
-3. It is your responsibility to liaise with the person before and the person after to achieve the required transition between each piece 
+- [x] It is your responsibility to liaise with the person before and the person after to achieve the required transition between each piece 
 
-4. You will have to practice and experiment to get this right 
+- [x] You will have to practice and experiment to get this right 
 
-5. The basic principle of all of these mechanisms is that there is an object that stores potential energy (in a spring, through gravity…). This should require a small amount of energy to trigger it, it may ‘do something,’ before then triggering the next mechanism 
+- [x] The basic principle of all of these mechanisms is that there is an object that stores potential energy (in a spring, through gravity…). This should require a small amount of energy to trigger it, it may ‘do something,’ before then triggering the next mechanism 
 
-6. This is not an art project as such. Your mechanism should be robust, easily re-settable, well designed, and well made. 
+- [x] This is not an art project as such. Your mechanism should be robust, easily re-settable, well designed, and well made. 
 
-7. Your design may not involve petrochemicals, liquids, fire, gas or explosives. Sorry! 
+- [x] Your design may not involve petrochemicals, liquids, fire, gas or explosives. Sorry! 
 
-8. The most effective sections have some kind of delay mechanism that creates a pause and creates tension. The key is to engineer the right length of delay
+- [x] The most effective sections have some kind of delay mechanism that creates a pause and creates tension. The key is to engineer the right length of delay
 
-9. You may want to include some sort of found object in your section. This will allow you to create a narrative around the object and what it is doing.
+- [x] You may want to include some sort of found object in your section. This will allow you to create a narrative around the object and what it is doing.
 
-10. Your piece should not simply be a ‘rolling ball-type’ machine 
+- [x] Your piece should not simply be a ‘rolling ball-type’ machine 
 
-11. Those at the beginning and end of the cycle should try to engineer a meaningful overture (opening) and denouement (climax)
+- [x] Those at the beginning and end of the cycle should try to engineer a meaningful overture (opening) and denouement (climax)
 
 ## DELIVERY RULES
 
