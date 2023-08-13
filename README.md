@@ -61,7 +61,7 @@ floor, no changes in height between separate elements, unless the elements are b
 
 ## DEADLINE TIMINGS → 2023
 |Date|TIME|TASK| Description|
-|---|-----|-----| -----|
+|---- |-----|-----|---|
 |Oct. 24| 10:00 | __*DOCUMENTATION*__ | We will photograph each individual contraption. Running order dependent on progress |
 |Oct. 24| 14:00 | __*RUN THROUGH*__ | Hard deadline. All devices prepped & ready|
 |Oct. 24| 18:00 | __*Listening Session*__ | Brief 1.2 __*Soft launch*__ <ins>in the Bar</ins>
