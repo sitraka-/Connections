@@ -255,6 +255,10 @@ ol li::before {
     margin-left: 1rem;
 }
 
+::marker {
+    color: var(--link-color);
+}
+
 body::-webkit-scrollbar {
     width: 5px;
 }
