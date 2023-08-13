@@ -1,1 +1,1 @@
-<span class="mc">Connections</span>
+![](./assets/images/cc.png)
