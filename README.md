@@ -59,12 +59,12 @@ floor, no changes in height between separate elements, unless the elements are b
 |Oct. 17 | Supervised Studio | Supervised Studio
 |Oct. 24 | __*DOCUMENTATION*__ | __*RUN THROUGH*__ | __Listening Session__ w/ [Nicholas Mortimer](http://nicholasmortimer.net/)
 
-## KEY DATES & TASKS
+## DEADLINE TIMINGS & TASKS
 |Date|TIME|TASK| Description|
 |---|-----|-----| -----|
 |Oct. 24| 10:00 | __*DOCUMENTATION*__ | We will photograph each individual contraption. Running order dependent on progress |
 |Oct. 24| 14:00 | __*RUN THROUGH*__ | Hard deadline. All devices prepped & ready|
-|Oct.24| 18:00 | __*Listening Session*__ | Brief 1.2 __*Soft launch*__ <ins>in the Bar</ins>
+|Oct. 24| 18:00 | __*Listening Session*__ | Brief 1.2 __*Soft launch*__ <ins>in the Bar</ins>
 
 ## LEARNING OUTCOMES
 
