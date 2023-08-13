@@ -283,6 +283,11 @@ tr {
 
 td {
     padding: 10px 15px 10px 0;
+    vertical-align: top;
+}
+
+td:nth-child(4) {
+    max-width: 200px;
 }
 
 thead th {
