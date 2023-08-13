@@ -28,9 +28,9 @@ You will be divided into groups, with each group assigned a number and a list of
 
 ## PRODUCTION RULES
 
-- [x] Keep it simple, test it, test it and test it!
+[x] Keep it simple, test it, test it and test it!
 
-- [x] The overall effect should be a dynamic, kinetic sculpture that represents not only you as individuals, but also as a group 
+[x] The overall effect should be a dynamic, kinetic sculpture that represents not only you as individuals, but also as a group 
 
 - [x] It is your responsibility to liaise with the person before and the person after to achieve the required transition between each piece 
 
@@ -63,15 +63,15 @@ floor, no changes in height between separate elements, unless the elements are b
 
 The outcomes of this project contribute to your achievement of the Unit learning outcomes and form the basis of the assessment of your work. The learning outcomes for this project are highlighted as follows:
 
-1. Critical engagement with a range of research methods and theory relevant to your practice; 
+- [x] Critical engagement with a range of research methods and theory relevant to your practice; 
 
-2. Ability to synthesise your research into design proposals that take into account different scenarios or contexts of application; 
+- [x] Ability to synthesise your research into design proposals that take into account different scenarios or contexts of application; 
 
-3. Effective communication of a variety of proposals in different areas of the discipline to a range of audiences; (Technical competence) and (Communication and Presentation) 
+- [x] Effective communication of a variety of proposals in different areas of the discipline to a range of audiences; (Technical competence) and (Communication and Presentation) 
 
-4. Critical awareness of your own personal and professional strengths and weaknesses; 
+- [x] Critical awareness of your own personal and professional strengths and weaknesses; 
 
-5. Ability to manage the roles and responsibilities of yourself and others as part of an effective team;
+- [x] Ability to manage the roles and responsibilities of yourself and others as part of an effective team;
 
 ---
 
