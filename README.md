@@ -26,6 +26,49 @@ The project is intended to get you to work together as a team to create somethin
 
 You will be divided into groups, with each group assigned a number and a list of action verbs to choose from. The chain reaction will commence with Group 1, as they create a mechanism to trigger a second device crafted by Group 2, all while embodying and expressing the selected action verb. The sequence continues with Group 3 and beyond until the final member of the chain. The task involves crafting the mechanism using materials and processes available within the college workshops.
 
+### List of action verbs:
+
+1. Tear
+2. Shove
+3. Push
+4. Pull
+5. Tug
+6. Nudge
+7. Grasp
+8. Jostle
+9. Graze
+10. Pinch
+11. Squeeze
+12. Fling
+13. Toss
+14. Throw
+15. Kick
+16. Spin
+17. Spin around
+18. Twirl
+19. Flip
+1. Tumble
+1. Flip over
+1. Roll
+1. Roll over
+1. Slide
+1. Bounce
+1. Tumble down
+1. Knock
+1. Tap
+1. Slam shut
+1. Smash
+1. Crush
+1. Drop
+1. Topple
+1. Collapse
+1. Swing
+1. Strike
+1. Punch
+1. Collide
+1. Hit
+1. Ram
+
 ## PRODUCTION RULES
 
 1. Keep it simple, test it, test it and test it!
