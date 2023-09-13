@@ -24,7 +24,7 @@ The project is intended to get you to work together as a team to create somethin
 
 ## BRIEF
 
-You will be divided into groups, with each group assigned a number and a list of action verbs to choose from. The chain reaction will commence with Group 1, as they create a mechanism to trigger a second device crafted by Group 2, all while embodying and expressing the selected action verb. The sequence continues with Group 3 and beyond until the final member of the chain. The task involves crafting the mechanism using materials and processes available within the college workshops.
+You will be divided into groups, with each group assigned a number and an action verbs to choose from the list below. The chain reaction will commence with Group 1, as they create a mechanism to trigger a second device crafted by Group 2, all while embodying and expressing the selected action verb. The sequence continues with Group 3 and beyond until the final member of the chain. The task involves crafting the mechanism using materials and processes available within the college workshops.
 
 ### List of action verbs:
 
