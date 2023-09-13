@@ -8,7 +8,7 @@
 
 ## BACKGROUND
 
-> The details are not the details, they make the product, just as details make the architecture — the gauge of the wire, the selection of the wood, the finish of the castings — the connections,the connections, the connections.
+> The details are not the details, they make the product, just as details make the architecture — the gauge of the wire, the selection of the wood, the finish of the castings — the connections, the connections, the connections.
 
 Charles Eames quoted in Massey, A., _Interior Design of the 20th Century_, New York, Thames and Hudson, 1990, 145–62.
 
