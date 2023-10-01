@@ -124,7 +124,7 @@ custom_head: head-default.html
     <blockquote>4.<br>You will have to practice and experiment to get this right</blockquote>
 </section> -->
 <section data-background-color="red" data-state=header8>
-    <blockquote>4.<br>Each object is a mechanism that should store potential energy (in a spring, an elastic band, through gravity, and so on), and should require small amount of force to be released, and trigger the next object</blockquote>
+    <blockquote>4.<br>Each object acts as a potential energy storage (e.g., via a spring, elastic band, or gravity), and should need only a slight force for release to trigger the next object.</blockquote>
 </section>
 <section data-background-color="red" data-state=header8>
     <blockquote>5.<br>Your mechanism should be robust, easily re-settable, well designed, and well made.</blockquote>
