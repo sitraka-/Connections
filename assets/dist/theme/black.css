@@ -212,6 +212,7 @@ header {
 
 .reveal blockquote {
   font-family: var(--quote-font);
+  color: white;
   display: block;
   position: relative;
   /* width: 70%; */

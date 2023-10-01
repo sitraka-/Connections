@@ -7,7 +7,7 @@ custom_head: head-default.html
 <section>
     <img src="assets/images/cc1.png" />
 </section>
-<section data-state=header1>
+<section data-background-color="#0056FF" data-state=header1>
     <style>.header1 header:after { content: "Charles Eames"; }</style>
     <blockquote>
         The details are not the details, they make the product, just as details make the architecture — the gauge of the wire, the selection of the wood, the finish of the castings — the connections, the connections, the connections.
@@ -46,7 +46,6 @@ custom_head: head-default.html
 </section>
 <section data-state=header4>
     Collectively design and craft a chain reaction, a kinetic cascade, made of dynamic objects, whose sole purpose is to carry momentum forward
-    <h4>The Brief</h4>
 </section>
 <section>
     <iframe width="560" height="420" src="https://www.youtube.com/embed/48miurCamjw?si=1tYTn--SfZ5GUSCW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
