@@ -383,3 +383,9 @@ header {
     background-color: var(--r-background-color);
   }
 }
+
+p.fragment {
+  text-align: left;
+  margin: 0 auto;
+  width: 70%;
+}
