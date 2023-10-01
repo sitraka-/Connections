@@ -7,7 +7,8 @@ custom_head: head-default.html
 <section>
     <img src="assets/images/cc1.png" />
 </section>
-<section>
+<section data-state=header1>
+    <style>.header1 header:after { content: "Header 1 Example"; }</style>
     <blockquote>
         The details are not the details, they make the product, just as details make the architecture — the gauge of the wire, the selection of the wood, the finish of the castings — the connections, the connections, the connections.
     </blockquote>
