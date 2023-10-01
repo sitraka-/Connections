@@ -182,7 +182,7 @@ custom_head: head-default.html
         </tr>
         <tr>
             <td>Oct. 25</td>
-            <td>Documentation + Soft Launch brief 1.2</td>
+            <td>Soft Launch brief 1.2</td>
             <td style="background-color: red; color: white;">Lecture in the Bar</td>
         </tr>
     </table>
