@@ -149,7 +149,7 @@ custom_head: head-default.html
 </section>
 <section data-state=header10>
     <style>.header10 header:after { content: "Schedule"; }</style>
-    <table>
+    <table style="font-size=1.5rem;">
         <tr>
             <th>Date</th>
             <th>Task</th>
