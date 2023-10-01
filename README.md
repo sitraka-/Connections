@@ -137,5 +137,6 @@ The outcomes of this project contribute to your achievement of the Unit learning
 > - The Sculpture of Arthur Ganson. [http://www.arthurganson.com](http://www.arthurganson.com) accessed 9.11.2016 
 > - _Der Lauf Der Dinge_ or _The Way Things Go_ (1987) [[Film]](https://youtu.be/48miurCamjw). Switzerland: Peter Fischli and David Weiss 
 > - Moustrap MB Games Honda Civic Cog (2003) [[Advertisement]](http://www.youtube.com/watch?v=_ve4M4UsJQo) Wieden+ Kennedy 
+> - [This Too Shall Pass](https://www.youtube.com/watch?v=qybUFnY7Y8w&ab_channel=OKGo) (2010), [OK GO](https://www.youtube.com/channel/UC194cPvPaGJjhJBEGwG6vxg)
 
 
