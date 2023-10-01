@@ -147,3 +147,43 @@ custom_head: head-default.html
 <section data-background-color="red" data-state=header8>
     <blockquote>10.<br>Keep it simple, test it, test it and test it!</blockquote>
 </section>
+<section data-state=header10>
+    <style>.header10 header:after { content: "Schedule"; }</style>
+    <table>
+        <tr>
+            <th>Date</th>
+            <th>Task</th>
+            <th>EoD Delivery</th>
+        </tr>
+        <tr>
+            <td>Oct. 2</td>
+            <td>Brief Launch</td>
+            <td>Initial Ideas Sketches</td>
+        </tr>
+        <tr>
+            <td>Oct. 3</td>
+            <td>Supervised Studio</td>
+            <td>Full mapping + Transition</td>
+        </tr>
+        <tr>
+            <td>Oct. 10</td>
+            <td>Supervised Studio</td>
+            <td>Iteration #1, working prototype</td>
+        </tr>
+        <tr>
+            <td>Oct. 17</td>
+            <td>Supervised Studio</td>
+            <td>Iteration #2</td>
+        </tr>
+        <tr>
+            <td>Oct. 24</td>
+            <td>RUN THROUGH + Documentation</td>
+            <td>Final Iteration</td>
+        </tr>
+        <tr>
+            <td>Oct. 25</td>
+            <td>Documentation + Soft Launch</td>
+            <td>Lecture/DJing in the Bar</td>
+        </tr>
+    </table>
+</section>
