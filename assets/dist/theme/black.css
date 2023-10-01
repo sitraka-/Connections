@@ -100,7 +100,7 @@ header {
 
 .deli p {
   font-size: 1.5rem;
-  margin-bottom: 1rem;
+  margin-bottom: 1rem !important;
 }
 
 
@@ -413,8 +413,18 @@ p.fragment {
 }
 
 .controls-arrow {
-  border-radius: 0;
+  border-radius: 0 !important;
   color: blue !important;
+}
+
+.controls-arrow:before {
+  border-radius: 0 !important;
+  /* color: blue !important; */
+}
+
+.controls-arrow:after {
+  border-radius: 0 !important;
+  /* color: blue !important; */
 }
 
 .containCol {
