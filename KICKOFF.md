@@ -28,7 +28,7 @@ custom_head: head-default.html
     <p class="fragment">Industries & Consumers</p>
     <p class="fragment">Individuals & Environment</p>
     <p class="fragment">Objects & Subjects</p>
-    <h4>Design As Process</h4> 
+    <h4 class="absolute" bottom=0 left=0>Design As Process</h4> 
     <aside class="notes">
         Design as a process that ties things together; makes sense of things, by creating, transforming, arranging things around. 📝
     </aside>
