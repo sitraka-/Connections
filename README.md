@@ -28,6 +28,8 @@ You will be divided into groups, with each group assigned a number and an action
 
 ### List of action verbs:
 
+<div style="display: flex;">
+<div syle="flex: 1;">
 1. Tear
 2. Shove
 3. Push
@@ -41,33 +43,39 @@ You will be divided into groups, with each group assigned a number and an action
 11. Squeeze
 12. Fling
 13. Toss
+</div>
+<div syle="flex: 1;">
 14. Throw
 15. Kick
 16. Spin
 17. Spin around
 18. Twirl
 19. Flip
-1. Tumble
-1. Flip over
-1. Roll
-1. Roll over
-1. Slide
-1. Bounce
-1. Tumble down
-1. Knock
-1. Tap
-1. Slam shut
-1. Smash
-1. Crush
-1. Drop
-1. Topple
-1. Collapse
-1. Swing
-1. Strike
-1. Punch
-1. Collide
-1. Hit
-1. Ram
+20. Tumble
+21. Flip over
+22. Roll
+23. Roll over
+24. Slide
+25. Bounce
+26. Tumble down
+27. Knock
+</div>
+<div syle="flex: 1;">
+28. Tap
+29. Slam shut
+30. Smash
+31. Crush
+32. Drop
+33. Topple
+34. Collapse
+35. Swing
+36. Strike
+37. Punch
+38. Collide
+39. Hit
+40. Ram
+</div>
+</div>
 
 ## PRODUCTION RULES
 
