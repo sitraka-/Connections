@@ -59,6 +59,57 @@ custom_head: head-default.html
     <style>.header7 header:after { content: "Grouping"; }</style>
     <img src="assets/images/ABgroup.png" />
 </section>
+<section data-state=header9>
+    <style>.header9 header:after { content: "Action Verbs"; }</style>
+    <div class="containCol">
+        <div class="col">
+            Tear<br>
+            Shove<br>
+            Push<br>
+            Pull<br>
+            Tug<br>
+            Nudge<br>
+            Grasp<br>
+            Jostle<br>
+            Graze<br>
+            Pinch<br>
+            Squeeze<br>
+            Fling<br>
+            Toss<br>
+            Throw
+        </div>
+        <div class="col">
+            Kick<br>
+            Spin<br>
+            Spin around<br>
+            Twirl<br>
+            Flip<br>
+            Tumble<br>
+            Flip over<br>
+            Roll<br>
+            Roll over<br>
+            Slide<br>
+            Bounce<br>
+            Tumble down<br>
+            Knock<br>
+            Tap
+        </div>
+        <div class="col">
+            Slam shut<br>
+            Smash<br>
+            Crush<br>
+            Drop<br>
+            Topple<br>
+            Collapse<br>
+            Swing<br>
+            Strike<br>
+            Punch<br>
+            Collide<br>
+            Hit<br>
+            Ram
+        </div>
+    </div>
+</section>
 <section data-background-color="red" data-state=header8>
     <style>.header8 header:after { content: "The Rules"; }</style>
     <blockquote>1.<br>Keep it simple, test it, test it and test it!</blockquote>
