@@ -83,6 +83,21 @@ section.has-light-background h6 {
 /*********************************************
  * HEADERS
  *********************************************/
+header {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  z-index: 500;
+  font-size: 3rem;
+  color: var(--r-heading-color);
+  font-family: var(--r-heading-font);
+  font-weight: var(--r-heading-font-weight);
+  line-height: var(--r-heading-line-height);
+  letter-spacing: var(--r-heading-letter-spacing);
+  text-transform: uppercase;
+  padding: 1rem;
+}
+
 .reveal h1,
 .reveal h2,
 .reveal h3,
