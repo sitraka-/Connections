@@ -390,3 +390,8 @@ p.fragment {
   margin: 0 auto;
   width: 70%;
 }
+
+.controls-arrow {
+  border-radius: 0;
+  color: blue !important;
+}

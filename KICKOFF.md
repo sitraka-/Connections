@@ -55,7 +55,7 @@ custom_head: head-default.html
     <style>.header6 header:after { content: "This Too Shall Pass — Ok Go (2010)"; }</style>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/qybUFnY7Y8w?si=NZrWT-5aeHLvUM7B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </section>
-<section ddata-state=header7>
+<section data-state=header7>
     <style>.header7 header:after { content: "Grouping"; }</style>
     <img src="assets/images/ABgroup.png" />
 </section>
