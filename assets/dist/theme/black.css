@@ -98,9 +98,11 @@ header {
   padding: 1rem;
 }
 
-.deli {
+.deli p {
   font-size: 1.5rem;
+  margin-bottom: 1rem;
 }
+
 
 #_date {
   position: absolute;
