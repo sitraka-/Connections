@@ -139,7 +139,7 @@ custom_head: head-default.html
     <blockquote>7.<br>Use stuff found in the workshop, around the studio for their practical properties as well as the meanings that they may convey</blockquote>
 </section>
 <section data-background-color="red" data-state=header8>
-    <blockquote>8.<br>Your piece should not simply be a ‘rolling ball-type’ machine</blockquote>
+    <blockquote>8.<br>Your piece should not simply be a ‘rolling ball-type’ machine, but should embody the verb of action you have chosen</blockquote>
 </section>
 <section data-background-color="red" data-state=header8>
     <blockquote>9.<br>Those at the beginning and end of the cycle should try to engineer a meaningful overture (opening) and denouement (climax)</blockquote>
