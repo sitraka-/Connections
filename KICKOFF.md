@@ -110,6 +110,9 @@ custom_head: head-default.html
         </div>
     </div>
 </section>
+<section data-background-color="red">
+    <h1>THE RULES</h1>
+</section>
 <section data-background-color="red" data-state=header8>
     <style>.header8 header:after { content: "The Rules"; }</style>
     <blockquote>1~<br>Keep it simple, test it, test it and test it!</blockquote>
@@ -186,6 +189,9 @@ custom_head: head-default.html
             <td style="background-color: red; color: white;">Lecture in the Bar</td>
         </tr>
     </table>
+</section>
+<section data-background-color="#0056FF">
+    <h1>DELIVERABLES</h1>
 </section>
 <section data-state=header11 class="deli">
 <style>.header11 header:after { content: "Deliverables"; }</style>
