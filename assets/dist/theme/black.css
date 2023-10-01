@@ -98,7 +98,7 @@ header {
   padding: 1rem;
 }
 
-article #_date {
+#_date {
   position: absolute;
   top: 0;
   left: 0;

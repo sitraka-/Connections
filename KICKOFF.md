@@ -187,7 +187,7 @@ custom_head: head-default.html
         </tr>
     </table>
 </section>
-<section data-state=header11>
+<section data-state=header11 class="deli">
 <style>.header11 header:after { content: "Deliverables"; }</style>
     <p class="fragment visible">A single mechanised chain reaction, successfully integrating all groups individual contributions.</p>
     <p class="fragment">The completed piece should be able to fit on a FLAT surface (i.e. the studio floor, no changes in height between separate elements, unless the elements are built that way).</p>
