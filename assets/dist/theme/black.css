@@ -395,3 +395,11 @@ p.fragment {
   border-radius: 0;
   color: blue !important;
 }
+
+.containCol {
+  display: flex;
+}
+
+.col {
+  flex: 1;
+}
