@@ -44,16 +44,16 @@ You will be divided into groups, with each group assigned a number and an action
 14. Throw
 15. Kick
 16. Spin
-17. Spin around
+17. Bump
 18. Twirl
 19. Flip
 20. Tumble
-21. Flip over
+21. Lift
 22. Roll
-23. Roll over
+23. Flick
 24. Slide
 25. Bounce
-26. Tumble down
+26. Swat
 27. Knock
 28. Tap
 29. Slam shut
@@ -63,7 +63,7 @@ You will be divided into groups, with each group assigned a number and an action
 33. Topple
 34. Collapse
 35. Swing
-36. Strike
+36. Flop
 37. Punch
 38. Collide
 39. Hit

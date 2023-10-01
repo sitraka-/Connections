@@ -81,16 +81,16 @@ custom_head: head-default.html
         <div class="col">
             <span style="color: blue;">15.</span> Kick<br>
             <span style="color: blue;">16.</span> Spin<br>
-            <span style="color: blue;">17.</span> Spin around<br>
+            <span style="color: blue;">17.</span> Bump<br>
             <span style="color: blue;">18.</span> Twirl<br>
             <span style="color: blue;">19.</span> Flip<br>
             <span style="color: blue;">20.</span> Tumble<br>
-            <span style="color: blue;">21.</span> Flip over<br>
+            <span style="color: blue;">21.</span> Lift<br>
             <span style="color: blue;">22.</span> Roll<br>
-            <span style="color: blue;">23.</span> Roll over<br>
+            <span style="color: blue;">23.</span> Flick<br>
             <span style="color: blue;">24.</span> Slide<br>
             <span style="color: blue;">25.</span> Bounce<br>
-            <span style="color: blue;">26.</span> Tumble down<br>
+            <span style="color: blue;">26.</span> Swat<br>
             <span style="color: blue;">27.</span> Knock<br>
             <span style="color: blue;">28.</span> Tap
         </div>
@@ -102,7 +102,7 @@ custom_head: head-default.html
             <span style="color: blue;">33.</span> Topple<br>
             <span style="color: blue;">34.</span> Collapse<br>
             <span style="color: blue;">35.</span> Swing<br>
-            <span style="color: blue;">36.</span> Strike<br>
+            <span style="color: blue;">36.</span> Flop<br>
             <span style="color: blue;">37.</span> Punch<br>
             <span style="color: blue;">38.</span> Collide<br>
             <span style="color: blue;">39.</span> Hit<br>
