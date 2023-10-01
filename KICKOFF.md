@@ -4,4 +4,9 @@ layout: reveal
 custom_head: head-default.html
 ---
 
-For content see- slides
+<section>
+    Slide 1
+</section>
+<section>
+    Slide 2
+</section>
