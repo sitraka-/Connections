@@ -16,11 +16,12 @@ custom_head: head-default.html
         Design does not exist in isolation, it isn't about a singular action. 📝
     </aside>
 </section>
-<section data-background-color="black" data-state=header1>
-    <style>.header1 header:after { content: "Power of 10 Charles Eames — Charles & Ray Eames (1977)"; }</style>
+<section data-background-color="black" data-state=header2>
+    <style>.header2 header:after { content: "Power of 10 Charles Eames — Charles & Ray Eames (1977)"; }</style>
     <iframe width="560" height="420" src="https://www.youtube.com/embed/0fKBhvDjuy0?si=hW3hk7N34l9aM8RI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </section>
-<section>
+<section data-state=header3>
+<style>.header3 header:after { content: "DESIGN AS PROCESS"; }</style>
     Connections between what?
     <p class="fragment">Disciplines</p>
     <p class="fragment">Departments</p>
@@ -29,19 +30,18 @@ custom_head: head-default.html
     <p class="fragment">Industries & Consumers</p>
     <p class="fragment">Individuals & Environment</p>
     <p class="fragment">Objects & Subjects</p>
-    <h4 class="absolute" bottom=0 left=0>Design As Process</h4> 
     <aside class="notes">
         Design as a process that ties things together; makes sense of things, by creating, transforming, arranging things around. 📝
     </aside>
 </section>
-<section>
+<section data-state=header4>
+<style>.header4 header:after { content: "The Brief"; }</style>
     Create connections between objects, and between yourselves
-    <h4>The Brief</h4>
     <aside class="notes">
         It's a collective endeavour. And it's also about getting familiar with the workshops.
     </aside>
 </section>
-<section>
+<section data-state=header4>
     Collectively design and craft a chain reaction, a kinetic cascade, made of dynamic objects, whose sole purpose is to carry momentum forward
     <h4>The Brief</h4>
 </section>
