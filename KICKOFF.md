@@ -26,7 +26,7 @@ custom_head: head-default.html
 </section>
 <section data-state=header3>
 <!-- <style>.header3 header:after { content: "DESIGN AS PROCESS"; }</style> -->
-    <p class="fragment visible">Disciplines</p>
+    <p style="text-align:left;">Disciplines</p>
     <p class="fragment">Departments</p>
     <p class="fragment">Institutions</p>
     <p class="fragment">People & Machines</p>
