@@ -63,50 +63,50 @@ custom_head: head-default.html
     <style>.header9 header:after { content: "Action Verbs"; }</style>
     <div class="containCol">
         <div class="col">
-            Tear<br>
-            Shove<br>
-            Push<br>
-            Pull<br>
-            Tug<br>
-            Nudge<br>
-            Grasp<br>
-            Jostle<br>
-            Graze<br>
-            Pinch<br>
-            Squeeze<br>
-            Fling<br>
-            Toss<br>
-            Throw
+            1. Tear<br>
+            2. Shove<br>
+            3. Push<br>
+            4. Pull<br>
+            5. Tug<br>
+            6. Nudge<br>
+            7. Grasp<br>
+            8. Jostle<br>
+            9. Graze<br>
+            10. Pinch<br>
+            11. Squeeze<br>
+            12. Fling<br>
+            13. Toss<br>
+            14. Throw
         </div>
         <div class="col">
-            Kick<br>
-            Spin<br>
-            Spin around<br>
-            Twirl<br>
-            Flip<br>
-            Tumble<br>
-            Flip over<br>
-            Roll<br>
-            Roll over<br>
-            Slide<br>
-            Bounce<br>
-            Tumble down<br>
-            Knock<br>
-            Tap
+            15. Kick<br>
+            16. Spin<br>
+            17. Spin around<br>
+            18. Twirl<br>
+            19. Flip<br>
+            20. Tumble<br>
+            21. Flip over<br>
+            22. Roll<br>
+            23. Roll over<br>
+            24. Slide<br>
+            25. Bounce<br>
+            26. Tumble down<br>
+            27. Knock<br>
+            28. Tap
         </div>
         <div class="col">
-            Slam shut<br>
-            Smash<br>
-            Crush<br>
-            Drop<br>
-            Topple<br>
-            Collapse<br>
-            Swing<br>
-            Strike<br>
-            Punch<br>
-            Collide<br>
-            Hit<br>
-            Ram
+            29. Slam shut<br>
+            30. Smash<br>
+            31. Crush<br>
+            32. Drop<br>
+            33. Topple<br>
+            34. Collapse<br>
+            35. Swing<br>
+            36. Strike<br>
+            37. Punch<br>
+            38. Collide<br>
+            39. Hit<br>
+            40. Ram
         </div>
     </div>
 </section>

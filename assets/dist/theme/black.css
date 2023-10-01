@@ -402,4 +402,6 @@ p.fragment {
 
 .col {
   flex: 1;
+  font-size: 1.5rem;
+  text-align: left;
 }
