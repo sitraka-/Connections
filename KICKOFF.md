@@ -63,50 +63,50 @@ custom_head: head-default.html
     <style>.header9 header:after { content: "Action Verbs"; }</style>
     <div class="containCol">
         <div class="col">
-            01. Tear<br>
-            02. Shove<br>
-            03. Push<br>
-            04. Pull<br>
-            05. Tug<br>
-            06. Nudge<br>
-            07. Grasp<br>
-            08. Jostle<br>
-            09. Graze<br>
-            10. Pinch<br>
-            11. Squeeze<br>
-            12. Fling<br>
-            13. Toss<br>
-            14. Throw
+            <span style="color: blue;">01.</span> Tear<br>
+            <span style="color: blue;">02.</span> Shove<br>
+            <span style="color: blue;">03.</span> Push<br>
+            <span style="color: blue;">04.</span> Pull<br>
+            <span style="color: blue;">05.</span> Tug<br>
+            <span style="color: blue;">06.</span> Nudge<br>
+            <span style="color: blue;">07.</span> Grasp<br>
+            <span style="color: blue;">08.</span> Jostle<br>
+            <span style="color: blue;">09.</span> Graze<br>
+            <span style="color: blue;">10.</span> Pinch<br>
+            <span style="color: blue;">11.</span> Squeeze<br>
+            <span style="color: blue;">12.</span> Fling<br>
+            <span style="color: blue;">13.</span> Toss<br>
+            <span style="color: blue;">14.</span> Throw
         </div>
         <div class="col">
-            15. Kick<br>
-            16. Spin<br>
-            17. Spin around<br>
-            18. Twirl<br>
-            19. Flip<br>
-            20. Tumble<br>
-            21. Flip over<br>
-            22. Roll<br>
-            23. Roll over<br>
-            24. Slide<br>
-            25. Bounce<br>
-            26. Tumble down<br>
-            27. Knock<br>
-            28. Tap
+            <span style="color: blue;">15.</span> Kick<br>
+            <span style="color: blue;">16.</span> Spin<br>
+            <span style="color: blue;">17.</span> Spin around<br>
+            <span style="color: blue;">18.</span> Twirl<br>
+            <span style="color: blue;">19.</span> Flip<br>
+            <span style="color: blue;">20.</span> Tumble<br>
+            <span style="color: blue;">21.</span> Flip over<br>
+            <span style="color: blue;">22.</span> Roll<br>
+            <span style="color: blue;">23.</span> Roll over<br>
+            <span style="color: blue;">24.</span> Slide<br>
+            <span style="color: blue;">25.</span> Bounce<br>
+            <span style="color: blue;">26.</span> Tumble down<br>
+            <span style="color: blue;">27.</span> Knock<br>
+            <span style="color: blue;">28.</span> Tap
         </div>
         <div class="col">
-            29. Slam shut<br>
-            30. Smash<br>
-            31. Crush<br>
-            32. Drop<br>
-            33. Topple<br>
-            34. Collapse<br>
-            35. Swing<br>
-            36. Strike<br>
-            37. Punch<br>
-            38. Collide<br>
-            39. Hit<br>
-            40. Ram
+            <span style="color: blue;">29.</span> Slam shut<br>
+            <span style="color: blue;">30.</span> Smash<br>
+            <span style="color: blue;">31.</span> Crush<br>
+            <span style="color: blue;">32.</span> Drop<br>
+            <span style="color: blue;">33.</span> Topple<br>
+            <span style="color: blue;">34.</span> Collapse<br>
+            <span style="color: blue;">35.</span> Swing<br>
+            <span style="color: blue;">36.</span> Strike<br>
+            <span style="color: blue;">37.</span> Punch<br>
+            <span style="color: blue;">38.</span> Collide<br>
+            <span style="color: blue;">39.</span> Hit<br>
+            <span style="color: blue;">40.</span> Ram
         </div>
     </div>
 </section>
