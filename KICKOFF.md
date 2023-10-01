@@ -5,7 +5,7 @@ custom_head: head-default.html
 ---
 
 <section>
-    Slide 1
+    <img src="assets/images/cc1.png" />
 </section>
 <section>
     Slide 2
