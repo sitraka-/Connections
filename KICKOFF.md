@@ -37,23 +37,25 @@ custom_head: head-default.html
         Design as a process that ties things together; makes sense of things, by creating, transforming, arranging things around. 📝
     </aside>
 </section>
-<section data-state=header4>
+<section data-background-color="#0056FF" data-state=header4>
 <style>.header4 header:after { content: "The Brief"; }</style>
-    Create connections between objects,<br>and between yourselves
+    <blockquote>1.<br>Create connections between objects,<br>and between yourselves</blockquote>
     <aside class="notes">
         It's a collective endeavour. And it's also about getting familiar with the workshops.
     </aside>
 </section>
-<section data-state=header4>
-    Collectively design and craft a chain reaction, a kinetic cascade, made of dynamic objects, whose sole purpose is to carry momentum forward
+<section data-background-color="#0056FF" data-state=header4>
+    <blockquote>2.<br>Collectively design and craft a chain reaction, a kinetic cascade, made of dynamic objects, whose sole purpose is to carry momentum forward</blockquote>
 </section>
-<section>
+<section data-background-color="black" data-state=header5>
+    <style>.header5 header:after { content: "Der Lauf Der Dinge or The Way Things Go — Peter Fischli and David Weiss (1987)"; }</style>
     <iframe width="560" height="420" src="https://www.youtube.com/embed/48miurCamjw?si=1tYTn--SfZ5GUSCW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </section>
-<section>
+<section data-background-color="black" data-state=header6>
+    <style>.header6 header:after { content: "This Too Shall Pass — Ok Go (2010)"; }</style>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/qybUFnY7Y8w?si=NZrWT-5aeHLvUM7B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </section>
-<section>
+<section ddata-state=header7>
+    <style>.header7 header:after { content: "Grouping"; }</style>
     <img src="assets/images/ABgroup.png" />
-    <h4>Grouping</h4>
 </section>
