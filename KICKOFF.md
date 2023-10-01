@@ -26,7 +26,7 @@ custom_head: head-default.html
 </section>
 <section data-state=header3>
 <!-- <style>.header3 header:after { content: "DESIGN AS PROCESS"; }</style> -->
-    Disciplines
+    <p class="fragment visible">Disciplines</p>
     <p class="fragment">Departments</p>
     <p class="fragment">Institutions</p>
     <p class="fragment">People & Machines</p>
@@ -39,7 +39,7 @@ custom_head: head-default.html
 </section>
 <section data-state=header4>
 <style>.header4 header:after { content: "The Brief"; }</style>
-    Create connections between objects, and between yourselves
+    Create connections between objects,<br>and between yourselves
     <aside class="notes">
         It's a collective endeavour. And it's also about getting familiar with the workshops.
     </aside>
