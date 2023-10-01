@@ -112,40 +112,40 @@ custom_head: head-default.html
 </section>
 <section data-background-color="red" data-state=header8>
     <style>.header8 header:after { content: "The Rules"; }</style>
-    <blockquote>1.<br>Keep it simple, test it, test it and test it!</blockquote>
+    <blockquote>1~<br>Keep it simple, test it, test it and test it!</blockquote>
 </section>
 <section data-background-color="red" data-state=header8>
-    <blockquote>2.<br>The overall effect should be a dynamic, kinetic sculpture that represents not only you as individuals, but also as a group</blockquote>
+    <blockquote>2~<br>The overall effect should be a dynamic, kinetic sculpture that represents not only you as individuals, but also as a group</blockquote>
 </section>
 <section data-background-color="red" data-state=header8>
-    <blockquote>3.<br>It is your responsibility to liaise with the person before and the person after to achieve the required transition between each piece</blockquote>
+    <blockquote>3~<br>It is your responsibility to liaise with the person before and the person after to achieve the required transition between each piece</blockquote>
 </section>
 <!-- <section data-background-color="red" data-state=header8>
     <blockquote>4.<br>You will have to practice and experiment to get this right</blockquote>
 </section> -->
 <section data-background-color="red" data-state=header8>
-    <blockquote>4.<br>Each object acts as a potential energy storage (e.g., via a spring, elastic band, or gravity), and should need only a slight force for release to trigger the next object.</blockquote>
+    <blockquote>4~<br>Each object acts as a potential energy storage (e.g., via a spring, elastic band, or gravity), and should need only a slight force for release to trigger the next object.</blockquote>
 </section>
 <section data-background-color="red" data-state=header8>
-    <blockquote>5.<br>Your mechanism should be robust, easily re-settable, well designed, and well made.</blockquote>
+    <blockquote>5~<br>Your mechanism should be robust, easily re-settable, well designed, and well made.</blockquote>
 </section>
 <section data-background-color="red" data-state=header8>
-    <blockquote>6.<br>Your design may not involve petrochemicals, liquids, fire, gas or explosives. Sorry!</blockquote>
+    <blockquote>6~<br>Your design may not involve petrochemicals, liquids, fire, gas or explosives. Sorry!</blockquote>
 </section>
 <!-- <section data-background-color="red" data-state=header8>
     <blockquote>8.<br>The most effective sections have some kind of delay mechanism that creates a pause and creates tension. The key is to engineer the right length of delay</blockquote>
 </section> -->
 <section data-background-color="red" data-state=header8>
-    <blockquote>7.<br>Use stuff found in the workshop, around the studio for their practical properties as well as the meanings that they may convey</blockquote>
+    <blockquote>7~<br>Use stuff found in the workshop, around the studio for their practical properties as well as the meanings that they may convey</blockquote>
 </section>
 <section data-background-color="red" data-state=header8>
-    <blockquote>8.<br>Your piece should not simply be a ‘rolling ball-type’ machine, but should embody the verb of action you have chosen</blockquote>
+    <blockquote>8~<br>Your piece should not simply be a ‘rolling ball-type’ machine, but should embody the verb of action you have chosen</blockquote>
 </section>
 <section data-background-color="red" data-state=header8>
-    <blockquote>9.<br>Those at the beginning and end of the cycle should try to engineer a meaningful overture (opening) and denouement (climax)</blockquote>
+    <blockquote>9~<br>Those at the beginning and end of the cycle should try to engineer a meaningful overture (opening) and denouement (climax)</blockquote>
 </section>
 <section data-background-color="red" data-state=header8>
-    <blockquote>10.<br>Keep it simple, test it, test it and test it!</blockquote>
+    <blockquote>10~<br>Keep it simple, test it, test it and test it!</blockquote>
 </section>
 <section data-state=header10>
     <style>.header10 header:after { content: "Schedule"; }</style>
