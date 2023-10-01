@@ -14,5 +14,5 @@ custom_head: head-default.html
     <h4>Charles Eames</h4>
 </section>
 <section data-background-color="black">
-    <iframe width="560" height="560" src="https://www.youtube.com/embed/0fKBhvDjuy0?si=hW3hk7N34l9aM8RI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe width="560" height="420" src="https://www.youtube.com/embed/0fKBhvDjuy0?si=hW3hk7N34l9aM8RI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </section>
