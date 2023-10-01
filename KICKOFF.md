@@ -21,9 +21,12 @@ custom_head: head-default.html
     <iframe width="560" height="420" src="https://www.youtube.com/embed/0fKBhvDjuy0?si=hW3hk7N34l9aM8RI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </section>
 <section data-state=header3>
-<style>.header3 header:after { content: "DESIGN AS PROCESS"; }</style>
+    <style>.header3 header:after { content: "DESIGN AS PROCESS"; }</style>
     Connections between what?
-    <p class="fragment">Disciplines</p>
+</section>
+<section data-state=header3>
+<!-- <style>.header3 header:after { content: "DESIGN AS PROCESS"; }</style> -->
+    Disciplines
     <p class="fragment">Departments</p>
     <p class="fragment">Institutions</p>
     <p class="fragment">People & Machines</p>
