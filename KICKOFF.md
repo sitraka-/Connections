@@ -195,3 +195,8 @@ custom_head: head-default.html
     <p class="fragment"><span style="color:#00FF00;">✓</span> The contraptions should be easily and quickly re-settable.</p>
     <p class="fragment"><span style="color:#00FF00;">✓</span> Each mechanism must have a reasonable footprint.</p>
 </section>
+<section data-state=header12>
+<style>.header11 header:after { content: "Links"; }</style>
+    <a href="https://sitraka-.github.io/Connections/">https://sitraka-.github.io/Connections/</a><br>
+    <a href="https://sitraka-.github.io/Connections/KICKOFF.html">https://sitraka-.github.io/Connections/KICKOFF.html</a>
+</section>
