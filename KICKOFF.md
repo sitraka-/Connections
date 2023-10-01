@@ -197,6 +197,7 @@ custom_head: head-default.html
 </section>
 <section data-state=header12 data-background-color="#0056FF">
 <style>.header12 header:after { content: "Links"; }</style>
+    <h1>Good Luck!!</h1>
     <blockquote style="text-align:left;">
         <a style="color:white;" href="https://sitraka-.github.io/Connections/">https://sitraka-.github.io/Connections/</a><br>
         <a style="color:white;" href="https://sitraka-.github.io/Connections/KICKOFF.html">https://sitraka-.github.io/Connections/KICKOFF.html</a>
