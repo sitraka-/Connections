@@ -74,14 +74,14 @@ You will be divided into groups, with each group assigned a number and an action
 1. Keep it simple, test it, test it and test it!
 2. The overall effect should be a dynamic, kinetic sculpture that represents not only you as individuals, but also as a group 
 3. It is your responsibility to liaise with the person before and the person after to achieve the required transition between each piece 
-4. You will have to practice and experiment to get this right 
-5. The basic principle of all of these mechanisms is that there is an object that stores potential energy (in a spring, through gravity…). This should require a small amount of energy to trigger it, it may ‘do something,’ before then triggering the next mechanism 
+5. Each object acts as a potential energy storage (e.g., via a spring, elastic band, or gravity), and should need only a slight force for release to trigger the next object.
 6. This is not an art project as such. Your mechanism should be robust, easily re-settable, well designed, and well made. 
 7. Your design may not involve petrochemicals, liquids, fire, gas or explosives. Sorry! 
-8. The most effective sections have some kind of delay mechanism that creates a pause and creates tension. The key is to engineer the right length of delay
-9. You may want to include some sort of found object in your section. This will allow you to create a narrative around the object and what it is doing.
-10. Your piece should not simply be a ‘rolling ball-type’ machine 
+<!-- 8. The most effective sections have some kind of delay mechanism that creates a pause and creates tension. The key is to engineer the right length of delay -->
+7. Use stuff found in the workshop, around the studio for their practical properties as well as the meanings that they may convey.
+10. Your piece should not simply be a ‘rolling ball-type’ machine, but should embody the verb of action you have chosen 
 11. Those at the beginning and end of the cycle should try to engineer a meaningful overture (opening) and denouement (climax)
+1. Keep it simple, test it, test it and test it! 
 
 ## DELIVERABLES
 

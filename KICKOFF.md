@@ -149,7 +149,7 @@ custom_head: head-default.html
 </section>
 <section data-state=header10>
     <style>.header10 header:after { content: "Schedule"; }</style>
-    <table style="font-size=1.5rem;">
+    <table style="font-size:1.5rem;">
         <tr>
             <th>Date</th>
             <th>Task</th>
@@ -177,13 +177,21 @@ custom_head: head-default.html
         </tr>
         <tr style="background-color: red; color: white;">
             <td>Oct. 24</td>
-            <td>RUN THROUGH + Documentation</td>
+            <td style="font-weight: bold;">RUN THROUGH</td>
             <td>Final Iteration</td>
         </tr>
         <tr>
             <td>Oct. 25</td>
             <td>Documentation + Soft Launch brief 1.2</td>
-            <td style="background-color: red; color: white;">Lecture/DJing in the Bar</td>
+            <td style="background-color: red; color: white;">Lecture in the Bar</td>
         </tr>
     </table>
+</section>
+<section data-state=header11>
+<style>.header11 header:after { content: "Deliverables"; }</style>
+    <p class="fragment visible">A single mechanised chain reaction, successfully integrating all groups individual contributions.</p>
+    <p class="fragment">The completed piece should be able to fit on a FLAT surface (i.e. the studio floor, no changes in height between separate elements, unless the elements are built that way).</p>
+    <p class="fragment">The contraptions should transfer energy in the SAME DIRECTION.</p>
+    <p class="fragment">The contraptions should be easily and quickly re-settable.</p>
+    <p class="fragment">Each mechanism must have a reasonable footprint.</p>
 </section>
