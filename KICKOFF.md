@@ -175,7 +175,7 @@ custom_head: head-default.html
             <td>Supervised Studio</td>
             <td>Iteration #2</td>
         </tr>
-        <tr>
+        <tr style="background-color: red; color: white;">
             <td>Oct. 24</td>
             <td>RUN THROUGH + Documentation</td>
             <td>Final Iteration</td>
@@ -183,7 +183,7 @@ custom_head: head-default.html
         <tr>
             <td>Oct. 25</td>
             <td>Documentation + Soft Launch</td>
-            <td>Lecture/DJing in the Bar</td>
+            <td style="background-color: red; color: white;">Lecture/DJing in the Bar</td>
         </tr>
     </table>
 </section>
