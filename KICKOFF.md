@@ -136,7 +136,7 @@ custom_head: head-default.html
     <blockquote>8.<br>The most effective sections have some kind of delay mechanism that creates a pause and creates tension. The key is to engineer the right length of delay</blockquote>
 </section> -->
 <section data-background-color="red" data-state=header8>
-    <blockquote>7.<br>Use stuff found in the workshop, around the studio for both, their practical properties and the meanings that they may convey</blockquote>
+    <blockquote>7.<br>Use stuff found in the workshop, around the studio for their practical properties as well as the meanings that they may convey</blockquote>
 </section>
 <section data-background-color="red" data-state=header8>
     <blockquote>8.<br>Your piece should not simply be a ‘rolling ball-type’ machine</blockquote>
