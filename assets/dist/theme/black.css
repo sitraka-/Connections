@@ -425,4 +425,5 @@ p.fragment {
   flex: 1;
   font-size: 1.5rem;
   text-align: left;
+  padding-left: 2rem;
 }
