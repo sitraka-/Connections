@@ -130,6 +130,7 @@ The outcomes of this project contribute to your achievement of the Unit learning
 > - [Main Syllabus](./)
 > - [Link to PDF version](https://artslondon.sharepoint.com/:b:/t/MAID/EZu3v37q5EJBhEAly_Q-f0YBxuloVXaL9t01TisLqd71Fw?e=uKFSQI)
 > - [Kick off Presentation](KICKOFF.md)
+> - [Gallery](GALLERY.md)
 >
 > ## REFERENCES
 > 
