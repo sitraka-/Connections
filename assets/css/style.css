@@ -130,7 +130,7 @@ blockquote:last-of-type {
     word-wrap: break-word;
     hyphens: auto;
     font-family: var(--body-font);
-    margin-left: 3rem;
+    /* margin-left: 3rem; */
     font-size: 1rem;
     background: none;
     border-left: dashed thin var(--link-color);
