@@ -19,7 +19,7 @@
     --quote-font:
         'Vesper Libre', serif;
     --maxW: 50%;
-    --minW: 700px;
+    --minW: 550px;
 }
 
 .mc {
@@ -37,7 +37,7 @@ body {
     color: var(--main-color);
     font-family: var(--body-font);
     line-height: 1.4;
-    font-size: 1rem;
+    font-size: 0.8rem;
     /*     text-align: justify; */
     margin: 0;
     padding: 2rem 3rem 3rem 3rem;
@@ -86,7 +86,7 @@ blockquote {
 
     margin: 0;
     padding: 1rem 2rem;
-    font-size: 1.2rem;
+    font-size: 0.8rem;
 
 }
 
@@ -117,7 +117,7 @@ hr {
 }
 
 p {
-    max-width: 800px;
+    max-width: var(--minW);
 }
 
 blockquote:last-of-type {
@@ -202,14 +202,15 @@ blockquote:last-of-type ul {
 
 @media only screen and (max-width: 1700px) {
     .markdown-body {
-        min-width: 50%;
-        max-width: 700px;
+        /* min-width: 50%; */
+        max-width: var(--minW);
         /* width: 100%; */
         /*         background: red; */
     }
 
     blockquote:last-of-type {
-        width: calc(50% - 9rem);
+        /* width: calc(50% - 9rem); */
+        width: var(--minW);
     }
 }
 
